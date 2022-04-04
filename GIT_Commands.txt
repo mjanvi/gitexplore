@@ -1,0 +1,8 @@
+1. Add all the files from currunt directory to repository 
+	git add .
+2. Add particular file only
+	git add <xyz>
+3. commit file
+	git commit -m "<Type msg here>"
+4. check logs
+	git log
