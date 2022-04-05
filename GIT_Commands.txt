@@ -6,3 +6,11 @@
 	git commit -m "<Type msg here>"
 4. check logs
 	git log
+5. status of file modified
+	git status 
+6. check log of last n numbers of commits
+	git log -n <12>
+7. check logs from particular auther 
+	git log --author="Janvi Mehta"
+8. check log from particular date 
+	git log --since=2022-04-03
