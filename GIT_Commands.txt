@@ -16,3 +16,5 @@
 	git log --since=2022-04-03
 9. check differnce between file that is commited vs. file which is not even in stagging area.
 	git diff
+10. to track file in stagging area 
+	git diff --staged 
