@@ -18,3 +18,5 @@
 	git diff
 10. to track file in stagging area 
 	git diff --staged 
+11. one way to delete file
+	git rm <file name>
