@@ -24,3 +24,5 @@
 	git checkout -- <file name here>
 13. unstage file from stagging area
 	git reset HEAD <file name here>
+14. how to make amend to last commited file - Only works on last commited file. make changes to file & add to stagging aread when commiting use below command 
+	git commit --amend -m "text goes here"
