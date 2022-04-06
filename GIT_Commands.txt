@@ -25,4 +25,9 @@
 13. unstage file from stagging area
 	git reset HEAD <file name here>
 14. how to make amend to last commited file - Only works on last commited file. make changes to file & add to stagging aread when commiting use below command 
-	git commit --amend -m "text goes here"
+	git commit --amend -m "text goes here" 
+15. reset your functions from file - 3 ways soft, mixed, hard 
+	git reset <SHA-1 value wish to go back to>
+	git reset --hard <SHA value you wish to go back>
+16. Shortcut to roll back the file to previous HEAD ~1 / ~2 - will revert back 2 HEAD 	
+	git reset HEAD~1
