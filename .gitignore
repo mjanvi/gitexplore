@@ -2,3 +2,4 @@
 
 *.txt
 !01GIT_tutorial.txt
+*.js
