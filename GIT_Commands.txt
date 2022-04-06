@@ -33,4 +33,4 @@
 16. Shortcut to roll back the file to previous HEAD ~1 / ~2 - will revert back 2 HEAD 	(This command will bring file to modified position - not added/stagged)
 	git reset HEAD~1
 17. create .gitignore file to ignore any file from the folder / repo from git to not track it
-18.
+18.ignore will not work on files athat are already commited
