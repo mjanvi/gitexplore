@@ -34,3 +34,5 @@
 	git reset HEAD~1
 17. create .gitignore file to ignore any file from the folder / repo from git to not track it
 18.ignore will not work on files athat are already commited
+19 how to remove commited file to start tracking on gitignore
+	git rm --cashed <filename>
