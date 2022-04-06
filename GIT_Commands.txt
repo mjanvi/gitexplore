@@ -22,4 +22,5 @@
 	git rm <file name>
 12. local copy of the file is now messed up & you want to revert changes to already commited commited
 	git checkout -- <file name here>
-13
+13. unstage file from stagging area
+	git reset HEAD <file name here>
