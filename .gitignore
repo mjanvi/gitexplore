@@ -1,0 +1,4 @@
+#this is comment
+
+*.txt
+!01GIT_tutorial.txt
