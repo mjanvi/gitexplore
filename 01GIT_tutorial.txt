@@ -6,3 +6,5 @@ test 03
 
 
 added chart function here - branch : new_chart
+
+we wil add new file & learn about fast forward 
